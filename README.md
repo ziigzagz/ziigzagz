@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2> 🚀 &nbsp;Tools</h2>
-&nbsp;
+
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
