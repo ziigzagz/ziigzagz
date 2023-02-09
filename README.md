@@ -88,6 +88,7 @@ You can click the Preview link to take a look at your changes.
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 &nbsp;
 
+<h2> 📊 &nbsp;My Github History!</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziigzagz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;
