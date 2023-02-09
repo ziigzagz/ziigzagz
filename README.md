@@ -26,10 +26,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2> 🚀 &nbsp;Framework</h2>
-<p align="left">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" alt="vscode" width="45" height="45"/>
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-</p>
+
 
 
 
