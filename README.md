@@ -89,8 +89,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 
 
-
-![Snake animation](https://github.com/ziigzagz/ziigzagz/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziigzagz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
