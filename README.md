@@ -52,9 +52,6 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 &nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-&nbsp;
-
 
 <h2> 🚀 &nbsp;Frameworks</h2>
 
