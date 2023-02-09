@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, language programming
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me ...
+
 
 <!---
 ziigzagz/ziigzagz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,20 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 <h2> 🚀 &nbsp;Framework</h2>
